@@ -74,9 +74,9 @@ This project was developed as part of the Data Structures course at **Sharif Uni
     * The decompressed text will be saved as `decoded[X].txt`.
 
 ## 👥 Authors
-* **Nima Kelidari**: Lead Developer & Implementation.
-* **Masoud Alipour**: Project Conceptualization & Analysis.
-* **Mohammadreza Pournader**: Project Conceptualization & Analysis.
+**Nima Kelidari**: Project Conceptualizator, Lead Developer & Implementation
+* **Masoud Alipour**: Project Analysor 
+* **Mohammadreza Pournader**: Project Tester
 
 ## 🤝 Contributing
 Contributions are welcome! If you have ideas for optimizing the tree structure or improving the 7-bit serialization logic:
